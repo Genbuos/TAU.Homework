@@ -15,4 +15,4 @@ You can assing a value to a variable in one of several ways including:
 Built into the Java class library is a class called integer and one of its job is to take Strings
 that represent numbers and convert them into acutal numbers.
 
-Java has a huge library found here [title](https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html) 
+Java has a huge library found here [Link of the Lirabrary](https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html) 
