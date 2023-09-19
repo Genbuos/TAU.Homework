@@ -36,5 +36,17 @@ Most restrictive -> private default protected public -> least restrictive.
 4. Overloading states that we can change the level of access in any direction.
 
 
+Interfaces are similar to abstract classes in that they serve as contracts for how classes behave. 
+The difference between abstract classes and interfaces is that interfaces can be applied to several classes with no relationship.
 
+Every class, regardless of whether it was created by you or already built in the Java API, extends the object class. All classes are subclasses of the object class.
+
+The object class serves two purposes: to act as a polymorphic class for methods (how we can use toString for every class) and to provide method code that all Java objects need at runtime.
+Using the Object class can come with a price, as specific concrete methods that are referenced to as objects of Object class lose their specific class characteristics and turn into objects of the Object class 
+
+Instance variables reside within the object they belong to, stored on the Heap.
+
+**Constructors are used to initialize the state, including instance variables, of the newly created object.
+If you omit a constructor in your class, the compiler will automatically provide a default constructor.
+**
 
