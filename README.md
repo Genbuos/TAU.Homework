@@ -11,7 +11,7 @@ You can assign a value to a variable in one of several ways including:
  There is no such thing as an object variable there is only an object reference variable.
  An object reference variable holds buts that represent a way to access an object.
 
-# Chapter 5 - 10 notes
+# Headfirst Java Chapter 5 - 10 notes
 Built into the Java class library is a class called integer and one of its job is to take Strings
 that represent numbers and convert them into acutal numbers.
 
